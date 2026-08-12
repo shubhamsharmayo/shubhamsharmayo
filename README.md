@@ -23,7 +23,7 @@
 
 ```yaml
 role: Full Stack Developer
-experience: ~1 year in production environments
+experience: 1+ year in production environments
 focus: AI-powered platforms, real-time systems, scalable backends
 education: B.Tech in Computer Science, ITM Aligarh (2025)
 location: Maharashtra, India
