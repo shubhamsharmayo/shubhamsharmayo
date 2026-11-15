@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="704" viewBox="0 0 1000 704" role="img" aria-label="Tech stack">
+<defs><style>.l{font:700 13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#94a3b8;letter-spacing:1.5px}.n{font:600 12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#e2e8f0}.m{font:800 22px -apple-system,Segoe UI,Helvetica,Arial,sans-serif}</style></defs>
+<rect width="1000" height="704" rx="16" fill="#0b1220"/>
+<text x="32" y="64" class="l">LANGUAGES</text>
+<rect x="220" y="24" width="64" height="64" rx="16" fill="#F7DF1E" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="64" text-anchor="middle" class="m" style="font-size:22px" fill="#111">JS</text>
+<text x="252" y="110" text-anchor="middle" class="n">JavaScript</text>
+<rect x="332" y="24" width="64" height="64" rx="16" fill="#3178C6" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="364" y="64" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">TS</text>
+<text x="364" y="110" text-anchor="middle" class="n">TypeScript</text>
+<rect x="444" y="24" width="64" height="64" rx="16" fill="#3776AB" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="476" y="64" text-anchor="middle" class="m" style="font-size:22px" fill="#FFD43B">Py</text>
+<text x="476" y="110" text-anchor="middle" class="n">Python</text>
+<rect x="556" y="24" width="64" height="64" rx="16" fill="#E34F26" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="588" y="64" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">H5</text>
+<text x="588" y="110" text-anchor="middle" class="n">HTML5</text>
+<rect x="668" y="24" width="64" height="64" rx="16" fill="#1572B6" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="700" y="64" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">C3</text>
+<text x="700" y="110" text-anchor="middle" class="n">CSS3</text>
+<line x1="32" x2="968" y1="122" y2="122" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="32" y="176" class="l">FRONTEND</text>
+<rect x="220" y="136" width="64" height="64" rx="16" fill="#20232A" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="176" text-anchor="middle" class="m" style="font-size:22px" fill="#61DAFB">Re</text>
+<text x="252" y="222" text-anchor="middle" class="n">React</text>
+<line x1="32" x2="968" y1="234" y2="234" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="32" y="288" class="l">BACKEND</text>
+<rect x="220" y="248" width="64" height="64" rx="16" fill="#339933" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="288" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">No</text>
+<text x="252" y="334" text-anchor="middle" class="n">Node.js</text>
+<rect x="332" y="248" width="64" height="64" rx="16" fill="#404040" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="364" y="288" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Ex</text>
+<text x="364" y="334" text-anchor="middle" class="n">Express</text>
+<rect x="444" y="248" width="64" height="64" rx="16" fill="#E0234E" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="476" y="288" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Ne</text>
+<text x="476" y="334" text-anchor="middle" class="n">NestJS</text>
+<rect x="556" y="248" width="64" height="64" rx="16" fill="#009688" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="588" y="288" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">FA</text>
+<text x="588" y="334" text-anchor="middle" class="n">FastAPI</text>
+<rect x="668" y="248" width="64" height="64" rx="16" fill="#092E20" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="700" y="288" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Dj</text>
+<text x="700" y="334" text-anchor="middle" class="n">Django</text>
+<line x1="32" x2="968" y1="346" y2="346" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="32" y="400" class="l">DATABASES</text>
+<rect x="220" y="360" width="64" height="64" rx="16" fill="#47A248" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="400" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Mo</text>
+<text x="252" y="446" text-anchor="middle" class="n">MongoDB</text>
+<rect x="332" y="360" width="64" height="64" rx="16" fill="#4479A1" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="364" y="400" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">My</text>
+<text x="364" y="446" text-anchor="middle" class="n">MySQL</text>
+<rect x="444" y="360" width="64" height="64" rx="16" fill="#4169E1" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="476" y="400" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Pg</text>
+<text x="476" y="446" text-anchor="middle" class="n">PostgreSQL</text>
+<rect x="556" y="360" width="64" height="64" rx="16" fill="#DC382D" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="588" y="400" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Rd</text>
+<text x="588" y="446" text-anchor="middle" class="n">Redis</text>
+<line x1="32" x2="968" y1="458" y2="458" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="32" y="512" class="l">REAL-TIME</text>
+<rect x="220" y="472" width="64" height="64" rx="16" fill="#010101" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="512" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">IO</text>
+<text x="252" y="558" text-anchor="middle" class="n">Socket.IO</text>
+<rect x="332" y="472" width="64" height="64" rx="16" fill="#FF6600" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="364" y="512" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Rb</text>
+<text x="364" y="558" text-anchor="middle" class="n">RabbitMQ</text>
+<line x1="32" x2="968" y1="570" y2="570" stroke="#ffffff" stroke-opacity="0.06"/>
+<text x="32" y="624" class="l">DEVOPS & CLOUD</text>
+<rect x="220" y="584" width="64" height="64" rx="16" fill="#232F3E" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="252" y="624" text-anchor="middle" class="m" style="font-size:18px" fill="#FF9900">AWS</text>
+<text x="252" y="670" text-anchor="middle" class="n">AWS</text>
+<rect x="332" y="584" width="64" height="64" rx="16" fill="#2496ED" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="364" y="624" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Dk</text>
+<text x="364" y="670" text-anchor="middle" class="n">Docker</text>
+<rect x="444" y="584" width="64" height="64" rx="16" fill="#D24939" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="476" y="624" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Jk</text>
+<text x="476" y="670" text-anchor="middle" class="n">Jenkins</text>
+<rect x="556" y="584" width="64" height="64" rx="16" fill="#009639" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="588" y="624" text-anchor="middle" class="m" style="font-size:22px" fill="#fff">Nx</text>
+<text x="588" y="670" text-anchor="middle" class="n">Nginx</text>
+</svg>
