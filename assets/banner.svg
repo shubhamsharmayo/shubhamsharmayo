@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Shubham Sharma, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f2a1f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <style>
+      .name { font: 700 54px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f8fafc; }
+      .role { font: 600 22px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#accent); }
+      .tag  { font: 400 16px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94a3b8; }
+      .code { font: 500 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #4ade80; }
+      .chip { font: 600 13px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="280" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="16" fill="url(#grid)"/>
+  <rect x="0" y="0" width="8" height="280" rx="4" fill="url(#accent)"/>
+
+  <!-- window dots -->
+  <circle cx="44" cy="38" r="6" fill="#ef4444"/>
+  <circle cx="64" cy="38" r="6" fill="#f59e0b"/>
+  <circle cx="84" cy="38" r="6" fill="#22c55e"/>
+  <text x="108" y="43" class="code">~/shubhamsharmayo</text>
+
+  <text x="44" y="120" class="name">Shubham Sharma</text>
+  <text x="44" y="156" class="role">Full Stack Developer</text>
+  <text x="44" y="186" class="tag">AI-powered platforms · Real-time systems · Scalable backends</text>
+
+  <!-- chips -->
+  <g transform="translate(44,214)">
+    <rect width="118" height="32" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="59" y="21" text-anchor="middle" class="chip">React · Node</text>
+    <rect x="130" width="118" height="32" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="189" y="21" text-anchor="middle" class="chip">TypeScript</text>
+    <rect x="260" width="118" height="32" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="319" y="21" text-anchor="middle" class="chip">NestJS · FastAPI</text>
+    <rect x="390" width="118" height="32" rx="16" fill="#ffffff" fill-opacity="0.07" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="449" y="21" text-anchor="middle" class="chip">AWS · Docker</text>
+  </g>
+
+  <!-- decorative code panel -->
+  <g transform="translate(640,72)">
+    <rect width="320" height="150" rx="12" fill="#020617" fill-opacity="0.6" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="20" y="34" class="code" fill-opacity="0.6">const developer = {</text>
+    <text x="40" y="60" class="code">role: "Full Stack",</text>
+    <text x="40" y="84" class="code">focus: "AI + Real-time",</text>
+    <text x="40" y="108" class="code">experience: "1.5+ yrs",</text>
+    <text x="20" y="132" class="code">};<tspan class="cursor"> ▍</tspan></text>
+  </g>
+</svg>
